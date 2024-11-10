@@ -114,7 +114,7 @@ For support, please open an issue in the GitHub repository or contact the mainta
 
 ## Authors
 
-- Daniel - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- Daniel - *Initial work* - [DaaanielTV](https://github.com/DaaanielTV)
 
 ---
 
